@@ -1,7 +1,7 @@
 # WS1S11-spr-helper
 
 1. This is source code setup repository for MiTAC WS1S11 with 4th Gen Intel® Xeon® Scalable Processor.
-2. Supported platform: MiTAC WS1S11, the system supports single processor for 5G infra which empowered by Intel EGS_SPR platform
+2. Supported platform: MiTAC WS1S11, the system supports single processor for 5G infra which is empowered by Intel EGS_SPR platform
     ( https://www.mitaccomputing.com/5GEdgeComputing_WS1S11_WS1S11_EN~Spec )
 
 
