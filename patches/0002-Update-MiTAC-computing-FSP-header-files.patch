@@ -1,7 +1,7 @@
-From e68b9d7f5ca647000616cfe761d58ff5c16383ec Mon Sep 17 00:00:00 2001
+From b5a64a5eb69910548203e4f157a94f5ea98536b2 Mon Sep 17 00:00:00 2001
 From: Mark Chang <mark.chang@mitaccomputing.com>
 Date: Wed, 27 Nov 2024 14:52:46 +0800
-Subject: [PATCH 3/3] Update MiTAC computing FSP header files
+Subject: [PATCH 2/2] Update MiTAC computing FSP header files
 
 ---
  .../fsp/fsp2_0/sapphirerapids_sp/FspUpd.h     |  29 +--

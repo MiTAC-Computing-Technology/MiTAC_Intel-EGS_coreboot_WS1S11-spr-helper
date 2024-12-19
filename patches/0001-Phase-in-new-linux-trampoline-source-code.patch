@@ -1,7 +1,7 @@
-From d27801f9ece618f56734b9036e82d6183ca6f9be Mon Sep 17 00:00:00 2001
+From 26a7aff00143d8a39b06c23f5f0021d10c2bfc39 Mon Sep 17 00:00:00 2001
 From: Mark Chang <mark.chang@mitaccomputing.com>
 Date: Wed, 27 Nov 2024 14:53:32 +0800
-Subject: [PATCH 2/3] Phase in new linux trampoline source code
+Subject: [PATCH 1/2] Phase in new linux trampoline source code
 
 ---
  util/cbfstool/linux_trampoline.S | 8 +++++++-

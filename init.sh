@@ -35,7 +35,8 @@ function download_coreboot()
     if [ -d $COREBOOT_SRC_DIR ]; then
         rm -rf $COREBOOT_SRC_DIR
     else
-        git clone -b 24.08 https://github.com/coreboot/coreboot.git
+        git clone https://github.com/coreboot/coreboot.git coreboot
+        git -C coreboot checkout --quiet dfef1895f2fb743b1e19258d520aa279542984e4
     fi
 }
 
